@@ -1,0 +1,36 @@
+high_scores:
+  1:
+    level: Easy
+    name: null
+    score: 0
+  2:
+    level: Normal
+    name: null
+    score: 0
+  3:
+    level: Hard
+    name: null
+    score: 0
+  4:
+    level: Expert
+    name: null
+    score: 0
+levels:
+  1:
+    name: Easy
+    words: 8
+  2:
+    name: Normal
+    words: 13
+  3:
+    name: Hard
+    words: 17
+  4:
+    name: Expert
+    words: 23
+max_time: 5
+player:
+  level: 4
+  name: sdsdsd
+  score: 0
+words_count: 23
